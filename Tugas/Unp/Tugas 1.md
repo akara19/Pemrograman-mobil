@@ -1,0 +1,4 @@
+- Silahkan lanjutkan file yang sudah ada untuk menampilkan data pembayaran siswa
+- Modifikasi tampilan yang sudah ada sesuai dengan ide anda sendiri
+- Kirimkan file modifikasi anda ke email ariksofyan@stt-pomosda.ac.id
+- Paling lambat sampai pertemuan berikutnya (Pertemuan setelah Idul Fitri)
