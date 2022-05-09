@@ -1,0 +1,1 @@
+- Dari hasil praktikum silahkan terdapat
