@@ -1,1 +1,8 @@
-- Dari hasil praktikum silahkan terdapat
+- Dari hasil praktikum terdapat tabel siswa dimana tabel tersebut memiliki struktur field.
+- Kode, Nama, Alamat. dari desain table tersebut silahkan tambah sebuah Field Kode_kelas, Kode_jurusan dan Angkatan.
+- Buat Tabel Kelas dan Jurusan.
+- Dari hasil perubahan struktur tabel siswa otomatis akan berpengaruh pada tampilan dan proses CRUD pada halaman siswa, silahkan lakukan perubahan pada halaman siswa sesuai dengan perubahan tabel.
+- Buat halaman untuk proses CRUD pada tabel Kelas dan Jurusan.
+- Dikerjakan secara berkelompok dengan anggota maksimal 1 kelompok 5 Anggota.
+- Semua Source Code dan perubahan desain tabel (.sql) dikimkan ke ariksofyan@stt-pomosda.ac.id dengan subject UTS_UNP_PRAK_MOBILE
+- Hasil dikirimkan paling Lambat sebelum pertemuan minggu depan.
