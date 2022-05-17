@@ -1,3 +1,5 @@
 - Halaman ini berisi file sebagai bahan praktek untuk studi kasus kedua
 - File template
 - File ERD desain Sistem
+- Silahkan buat database dan desain table sesuai dengan desain ERD yang ada
+- Coba buat aplikasi sesua dengan desain sistem yang sudah disediakan, sebagai bahan contoh sudah ada coding untuk melakukan proses CRUD pada tabel tb_jurusan
